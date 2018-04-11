@@ -1,0 +1,31 @@
+{
+  "name": "day-summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnishimura/day-summary.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nnishimura/day-summary/issues"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "homepage": "https://github.com/nnishimura/day-summary#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.15.1",
+    "forever": "^0.15.3",
+    "moment": "^2.22.0",
+    "node-schedule": "^1.3.0",
+    "request": "^2.85.0"
+  }
+}
