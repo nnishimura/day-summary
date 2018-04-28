@@ -37,4 +37,4 @@ https://github.com/node-schedule/node-schedule#cron-style-scheduling
 ## TODO
 
 * [ ] add PR titles for the day
-* [ ] (optional)
+* [ ] need more contents
